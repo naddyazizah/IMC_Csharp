@@ -1,0 +1,15 @@
+C:\Users\Nadnencio Azizah\IMC\bin\Debug\net10.0-windows\IMC.exe
+C:\Users\Nadnencio Azizah\IMC\bin\Debug\net10.0-windows\IMC.deps.json
+C:\Users\Nadnencio Azizah\IMC\bin\Debug\net10.0-windows\IMC.runtimeconfig.json
+C:\Users\Nadnencio Azizah\IMC\bin\Debug\net10.0-windows\IMC.dll
+C:\Users\Nadnencio Azizah\IMC\bin\Debug\net10.0-windows\IMC.pdb
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.AssemblyInfoInputs.cache
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.AssemblyInfo.cs
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.dll
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\refint\IMC.dll
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.pdb
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.genruntimeconfig.cache
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\ref\IMC.dll
+C:\Users\Nadnencio Azizah\IMC\obj\Debug\net10.0-windows\IMC.csproj.Up2Date
